@@ -27,6 +27,11 @@ This project focuses on developing a real-time sign language recognition model t
    - Training for 20-30 epochs.  
    - Achieved validation accuracy: 0.89, Top-3 Accuracy: 0.97.
 
+## Workflow Diagram
+![Workflow Diagram](https://github.com/user-attachments/assets/fe060caf-9f19-4ea1-a7b8-f9b9c1041e5f)
+
+
+
 ## Project File Structure
 The repository contains the following files and folders:
 - **Data**      
