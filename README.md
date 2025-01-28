@@ -29,13 +29,14 @@ This project aims to develop a real-time sign language recognition model that co
 
 ## Project File Structure
 The repository contains the following files and folders:
-- **data/**  
-  Contains the original dataset folder from Kaggle.  
-  - `WLASL-2000 Resized/` - Preprocessed sign language videos.  
-- **X_train.pkl**  
-  Preprocessed training data (features).  
-- **y_train.pkl**  
-  Preprocessed training data (labels).  
+- **Data**
+  To use the project, you need to download the required data:
+  1. Preprocessed Training Data (X_train.pkl and y_train.pkl)
+     Download the preprocessed training data from Google Drive:
+     https://drive.google.com/drive/folders/1sS9uR_TRqf-w1lfazqaPGbcNhsTJyBIu?usp=drive_link
+  2. Original Dataset
+     The original dataset can be downloaded from Kaggle:
+     https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed
 - **asl_top3_accuracy_model.h5**  
   Trained LSTM model with high accuracy.  
 - **video_to_training_data.ipynb**  
