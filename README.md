@@ -29,7 +29,7 @@ This project aims to develop a real-time sign language recognition model that co
 
 ## Project File Structure
 The repository contains the following files and folders:
-- **Data**
+- **Data**      
   To use the project, you need to download the required data:
   1. Preprocessed Training Data (X_train.pkl and y_train.pkl)      
      Download the preprocessed training data from Google Drive:      
