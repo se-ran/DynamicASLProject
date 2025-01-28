@@ -29,7 +29,8 @@ This project focuses on developing a real-time sign language recognition model t
 
 ## Workflow Diagram
 ![Workflow Diagram](https://github.com/user-attachments/assets/fe060caf-9f19-4ea1-a7b8-f9b9c1041e5f)
-
+Step 1: Model Training
+Step 2: Real-time Inference
 
 
 ## Project File Structure
