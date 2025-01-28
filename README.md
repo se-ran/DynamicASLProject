@@ -4,7 +4,7 @@
 In remote work environments, individuals who are deaf or hard of hearing often face challenges in effectively communicating during video conferences. To address this, we propose a solution that leverages sign language recognition technology to break communication barriers and empower individuals with hearing impairments to communicate seamlessly.
 
 ## Project Goal
-This project develops a real-time sign language recognition model to convert sign language into spoken language, enabling seamless communication and expanding opportunities for the hearing impaired.       For example, this technology could allow a deaf individual to communicate directly with clients through sign language in face-to-face services such as banking.
+This project focuses on developing a real-time sign language recognition model that converts sign language into spoken language, facilitating seamless communication and creating new opportunities for individuals with hearing impairments. Beyond enabling communication, this solution unlocks new possibilities. For instance, it empowers deaf individuals to interact directly with clients using sign language in face-to-face services, such as banking.
 
 ## Key Features and Technologies
 1. **Real-Time Sign Language Recognition**  
