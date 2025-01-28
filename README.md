@@ -35,7 +35,7 @@ The repository contains the following files and folders:
      Download the preprocessed training data from Google Drive:
      https://drive.google.com/drive/folders/1sS9uR_TRqf-w1lfazqaPGbcNhsTJyBIu?usp=drive_link
   2. Original Dataset
-     The original dataset can be downloaded from Kaggle:
+     The original dataset can be downloaded from Kaggle:            
      https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed
 - **asl_top3_accuracy_model.h5**  
   Trained LSTM model with high accuracy.  
